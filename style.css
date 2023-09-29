@@ -1,0 +1,59 @@
+#a1{
+    transition: 0.3s;
+}
+#a1:hover{
+    color: rgb(255, 255, 255);
+    padding-top: 2px;
+}
+.jumbotron{
+    padding: 7rem 2rem;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    background-color: rgb(3, 108, 78);
+
+}
+nav{
+    background-color: rgb(5, 144, 104);
+}
+#h1{
+font-family: 'Ibarra Real Nova', serif;
+   padding-top: 20%;
+   transition: 0.8s;
+   
+}
+#h1:hover{
+    cursor: default;
+    padding-top: 10%;
+}
+#span1{
+    color: rgb(35, 255, 108);
+}
+
+.about{
+    padding: 0;
+}
+#alert1{
+    transition: 0.5s;
+}
+#alert1:hover{
+    opacity: 0.9;
+    padding-bottom: 2rem;
+}
+#gallery{
+    padding: 7rem 2rem;
+    background-color: rgb(3, 108, 78);
+}
+#gallery-judul{
+    margin-bottom: 170px;
+}
+#footer{
+    padding: 7rem 2rem;
+}
+#btn-kontak{
+    transition: 0.5s;
+    background-color: rgb(0, 138, 99) ;
+}
+#btn-kontak:hover{
+    margin-bottom: 2rem;
+}
